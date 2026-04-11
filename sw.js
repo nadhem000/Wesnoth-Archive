@@ -1,5 +1,5 @@
 // sw.js – Advanced caching with offline fallback, no extra code needed
-const CACHE_VERSION = 'wesnoth-v2';
+const CACHE_VERSION = 'wesnoth-v3';
 const STATIC_CACHE = `static-${CACHE_VERSION}`;
 const DYNAMIC_CACHE = `dynamic-${CACHE_VERSION}`;
 const IMAGES_CACHE = `images-${CACHE_VERSION}`;
